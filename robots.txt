@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /dashboard/
-Disallow: /checkout/
-Disallow: /auth/
-Disallow: /webhook/
-
-Sitemap: https://yourdomain.com/sitemap.xml

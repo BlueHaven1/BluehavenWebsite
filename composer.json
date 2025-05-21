@@ -1,9 +1,0 @@
-{
-    "name": "bluehaven/fivem-store",
-    "description": "BluehavenFiveM Store selling Vehicle Liveries, Scripts, Websites and Frameworks",
-    "type": "project",
-    "require": {
-        "rafaelwendel/phpsupabase": "^0.0.8",
-        "stripe/stripe-php": "^17.2"
-    }
-}
